@@ -6,7 +6,7 @@
 반복적으로 비슷한 형태를 띄는 코드를 말한다.
 [출처] https://url.kr/i712rb
 
-#* node + react study
+#node + react study
   - login
   - logout
   - sing up
